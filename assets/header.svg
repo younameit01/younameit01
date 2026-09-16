@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Aakash Thapa. Building across the stack. Web, APIs, developer tools."><defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141124"/><stop offset="1" stop-color="#0b1720"/></linearGradient><linearGradient id="accent"><stop stop-color="#b99aff"/><stop offset="1" stop-color="#76f2c8"/></linearGradient></defs><style>text{font-family:DejaVu Sans,Arial,sans-serif}.mono{font-family:DejaVu Sans Mono,monospace}.blink{animation:blink 1.4s step-end infinite}.float{animation:float 6s ease-in-out infinite}@keyframes blink{50%{opacity:0}}@keyframes float{50%{transform:translateY(-6px)}}@media(prefers-reduced-motion:reduce){.blink,.float{animation:none}}</style><rect width="1200" height="380" rx="22" fill="url(#bg)"/>
+<circle cx="1040" cy="80" r="210" fill="#ad8bff" opacity=".035"/><circle cx="1040" cy="80" r="165" fill="none" stroke="#ad8bff" stroke-opacity=".12"/><circle cx="1040" cy="80" r="240" fill="none" stroke="#ad8bff" stroke-opacity=".08"/>
+<rect x="48" y="39" width="215" height="30" rx="15" fill="#a78bfa" fill-opacity=".1" stroke="#403452"/><circle cx="65" cy="54" r="4" fill="#79efc6"/><text x="80" y="59" font-size="11" letter-spacing="2" fill="#c7b7e9">WELCOME TO MY GITHUB</text>
+<text x="46" y="144" font-size="67" font-weight="700" letter-spacing="-3" fill="#f5f2ff">Aakash Thapa<tspan fill="#79efc6">.</tspan></text>
+<text x="49" y="192" font-size="27" fill="#c3a5ff">Building across the stack.</text>
+<text x="49" y="238" font-size="17" fill="#a29bb7">Curiosity. Code. Things that work.</text>
+<rect x="49" y="275" width="340" height="1" fill="#393347"/><text x="49" y="309" font-size="12" letter-spacing="3" fill="#b4abc7">WEB / APIs / DEVELOPER TOOLS</text>
+<g class="float"><rect x="712" y="94" width="430" height="208" rx="14" fill="#090e18" stroke="#4a3c62"/><path d="M726 95 H1128 Q1141 95 1141 108 V132 H713 V108 Q713 95 726 95" fill="#1d1a2c"/>
+<circle cx="735" cy="114" r="5" fill="#ff7b93"/><circle cx="753" cy="114" r="5" fill="#f4c970"/><circle cx="771" cy="114" r="5" fill="#79efc6"/><text x="836" y="119" class="mono" font-size="11" fill="#8d849f">younameit01 / workspace</text>
+<text x="738" y="170" class="mono" font-size="16" fill="#79efc6">❯ <tspan fill="#ece5fa">build ideas</tspan></text>
+<text x="760" y="203" class="mono" font-size="14" fill="#a99bbe">interfaces + APIs + a little AI</text>
+<text x="738" y="242" class="mono" font-size="16" fill="#79efc6">❯ <tspan fill="#ece5fa">keep creating</tspan></text>
+<rect class="blink" x="905" y="228" width="9" height="18" fill="#c3a5ff"/>
+<path d="M1061 272 l13 -8 -13 -8 M1102 272 l-13 -8 13 -8 M1084 252 l-6 24" stroke="#79efc6" stroke-width="2" fill="none"/></g>
+<rect x="48" y="353" width="1104" height="2" rx="1" fill="url(#accent)"/>
+</svg>
